@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Voyages and travels of that renowned captain, Sir Francis Drake, into the West-Indies, and round about the world. Giving a perfect relation of his strange adventures, and many wonderful discoveries; his fights with the Spaniard, and many barbarous nations; his taking S. Jago, S. Domingo, Carlagena, S. Augusta, and many other places in the golden country of America, and other parts of the world: his description of monsters and monstrous peopl. With many other other remarkable passages not before extant; containted in the history of life and death, both pleasant and profitable to the reader.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02772</idno>
+            <idno type="STC">Wing D2122AA</idno>
+            <idno type="STC">ESTC R221814</idno>
+            <idno type="EEBO-CITATION">51784498</idno>
+            <idno type="OCLC">ocm 51784498</idno>
+            <idno type="VID">174912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174912)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Voyages and travels of that renowned captain, Sir Francis Drake, into the West-Indies, and round about the world. Giving a perfect relation of his strange adventures, and many wonderful discoveries; his fights with the Spaniard, and many barbarous nations; his taking S. Jago, S. Domingo, Carlagena, S. Augusta, and many other places in the golden country of America, and other parts of the world: his description of monsters and monstrous peopl. With many other other remarkable passages not before extant; containted in the history of life and death, both pleasant and profitable to the reader.</title>
+               </titleStmt>
+               <extent>[3], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.H. and I.M. for P. Brooksby ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Imperfect: some pages light, faded, with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drake, Francis, --  Sir, 1540?-1596 --  Early works to 1800.</term>
+               <term>Voyages and travels --  Early works to 1800.</term>
+               <term>West Indies --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174912:1"/>
+            <pb facs="tcp:174912:1"/>
+            <p>THE Voyages and Travels Of that Renowned Captain, Sir <hi>Francis Drake, <hi>INTO THE</hi>
+               </hi> WEST-INDIES, <hi>And round about the</hi> WORLD.</p>
+            <p>Giving a perfect Relation of his Strange Adventures, and many Wonderful Diſco<g ref="char:EOLhyphen"/>veries; His Fights with the <hi>SPANIARD,</hi> and many Barbarous Nations; His taking S. <hi>IAGO,</hi> S. <hi>DOMINGO, CARLAGENA,</hi> S. <hi>A<g ref="char:V">Ʋ</g>G<g ref="char:V">Ʋ</g>STA,</hi> and many other pla<g ref="char:EOLhyphen"/>ces in the Golden Country of <hi>AMERICA,</hi> and other parts of the World: His Deſcription of Monſters, and Mon<g ref="char:EOLhyphen"/>ſterous People. With many other Remarkable Paſſa<g ref="char:EOLhyphen"/>ges not before Extant; Contained in the Hiſtory of <hi>LIFE and DEATH,</hi> both pleaſant and profitable to the Reader.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed and Entred according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. H.</hi> and <hi>I. M.</hi> for <hi>P. Brooksby,</hi> at the Golden-Ball, near the Hoſpital Gate, in <hi>Weſt-Smith-field.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174912:2"/>
+            <pb n="1" facs="tcp:174912:2"/>
+            <head>THE VOYAGES <hi>AND</hi> TRAVELS Of that Renowned Captain, Sir <hi>Francis Drake, <hi>INTO THE</hi>
+               </hi> VVEST-INDIES.</head>
+            <p>SIR <hi>Francis Drake</hi> was born at <hi>Ipſwich,</hi> and in his Youth put Apprentice to a Maſter of a Veſſel, during which time he gave himſelf wholly to the ſtudy of Marin Affairs, and grew ſo perfect therein, that he in the end became the Worlds Wonder, the Nations Glory, and Terror to its Enemies; in demonſtration of which, I ſhall declare his ſeveral Voyages and great Atchievements, till his Death.</p>
+            <pb n="2" facs="tcp:174912:3"/>
+            <p>
+               <hi>Firſt,</hi> Then he having by his many Exploits gained great Ap<g ref="char:EOLhyphen"/>plauſe, and the Reputation of an able Sea-man, was made Captain of a ſmall Veſſel by Queen <hi>Elizabeth,</hi> and imployed againſt the <hi>Spa<g ref="char:EOLhyphen"/>niard,</hi> her Mortal Enemy, from whom he took divers Prizes near Home; But not ſo contented, he, on the <hi>24th.</hi> of <hi>May, 1572.</hi> ſet Sail in the <hi>Paſchal of Plimouth,</hi> a Ship of <hi>70</hi> Tuns, and mount<g ref="char:EOLhyphen"/>ed with <hi>10</hi> Guns, accompanyed with the <hi>Swan,</hi> a Ship of <hi>25</hi> Tuns, and <hi>8</hi> Guns, Commanded by his Brother <hi>John Drake:</hi> having on Board both the Veſſels, <hi>73</hi> Men and Boys, with all other Neceſſa<g ref="char:EOLhyphen"/>ries, and having a fair Wind, came to <hi>Guadalupa,</hi> one of the <hi>Weſt-India</hi> Iſlands, on the <hi>29th.</hi> of <hi>June,</hi> but found nothing there, except ſome few Cottages made of Boughs, and covered with <hi>Palmata</hi> Leaves, which ſecured them from Rain, in the Nature of Tiles; yet they had ſight of two <hi>Canows,</hi> but could not reach them, by reaſon the Calm was ſo great. Theſe <hi>Canows</hi> are Boats which the <hi>Indians</hi> uſe, being for the moſt part cut out of Trees like Troughs, and a piece of Wood fixed on either ſide, to keep them from overturning; Whereupon, after they had watered their, they weighed Anchor, and Sailed to <hi>Port Pheſant,</hi> ſo named, becauſe of the abundance of that ſort of Foul found there: and there going on Shoar, found that one Mr. <hi>Garret</hi> of <hi>Plimouth,</hi> had been lately there, and had left an Inſcription in Lead nailed to a Tree, to warn him not to ſtay in that Port, foraſmuch as the <hi>Spaniards</hi> had notice of his Arrival; yet Landing more Forces, he reſolved to ſtay and build a Pinnace, which he affected, fortifying the Port in the mean while, to prevent any ſurprize. And whilſt they ſtayed there, a Bark came from the <hi>Iſle of Wight,</hi> bringing in a <hi>Spaniſh</hi> Prize, which joyned with Captain <hi>Drake;</hi> So that having finiſhed the Pinnace, the <hi>3</hi> Ships and Pinnace Sailed to the <hi>Iſle of Pinos,</hi> where they found <hi>2 Spaniſh</hi> Ships of <hi>Nombre de Dois,</hi> Lading Timber by the <hi>Negroes.</hi> In thoſe Veſſels they were informed of the State of the City and Country, and that new Forces were dayly expected, to defend it againſt the <hi>Symerons,</hi> a Black People, with long Hair, who had Revolted from the <hi>Spaniards,</hi> by reaſon of their Cruelty, and ſince choſen themſelves two Kings. Whereupon ſetting the <hi>Negroes</hi> on Shoar with ſome gifts, Captain <hi>Drake</hi> reſolved to go to <hi>Nombre de Dois,</hi> which he entered by Night, beating the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi>
+               <pb n="3" facs="tcp:174912:3"/> from their Defences, who hung Lines a thwart the Eaſt end of the Street, to make the <hi>Engliſh</hi> believe, by the lighted Matches tyed thereon, that their Forces were greater than indeed they were, and immediately Fired, which was anſwered with a like number of Fire-ſhot and Arrows from the <hi>Engliſh;</hi> they came to puſh of Pike, and butt end of the Musket, upon which the <hi>Spaniards</hi> fled, and the King's Treaſury conſiſting of <hi>360</hi> Tun of Silver Bars, and a like value of Gold, had fell into the hands of the <hi>Engliſh,</hi> had not Cap<g ref="char:EOLhyphen"/>tain <hi>Drake</hi> been unfortunately wounded in the Leg, which cauſed the loſs of ſo much Blood, that he fainted, yet nevertheleſs he per<g ref="char:EOLhyphen"/>ſwaded his Men to perſiſt, for that the like advantage could not be expected to be regained, if it was once omitted; but they prefering their Captain's Life before the Treaſure, forced him on Ship-board. In this Battle only one <hi>Engliſh-man</hi> was killed, and three or four wounded by the Weapons the Enemy had caſt away in their flight; ſeveral of the <hi>Spaniards</hi> were killed, and taken Priſoners. But Captain <hi>Drake</hi> being now on Ship-board, and well perceiving the <hi>Spaniards</hi> had increaſed their Forces, thought it not convenient with ſo ſmall a number, to make a ſecond attempt, therefore taking a Veſſel Laden with Wines, which at his coming he found in the Port; He ſet Sail for the Port <hi>Plenty,</hi> and there, by the advice of a <hi>Negro,</hi> Careſſed the <hi>Symerons</hi> he found there, who being Mortal nemies to the <hi>Spaniards,</hi> joyned Friendſhip with him, and greatly furthered his Affairs; and Sailing thence towards <hi>Cartagena,</hi> he took a great Ship Richly Laden, and after that, another, in which were two of the <hi>Spaniſh</hi> Kings <hi>Scrivendoes,</hi> who were ſent from <hi>Nombre de Dois,</hi> with the News of what had happened there. Yet he acted not ſo ſecretly, but that his coming was known to the <hi>Car<g ref="char:EOLhyphen"/>tagenians,</hi> who taking the Alarum, came down to the Shoar in great number, inſomuch that <hi>Drake</hi> thought it no ways convenient to Land there: and that his Pinnaces might be the better Maned, he cauſed his great Ship to be ſunk, after all things neceſſary were taken out of her, and Sailed from that Port, lying for ſome time undiſcovered, about a League thence, and cauſed the <hi>Negroes</hi> to build a Houſe, to ſhelter his Men from the violent Storms of Rain, that fell during his ſtay; To which place the <hi>Indians</hi> brought ſtore of Water and Victuals, for which they were amply gratifyed.
+<pb n="4" facs="tcp:174912:4"/> At which place leaving one Ship, he, with the two Pinnaces, Sail<g ref="char:EOLhyphen"/>ed to <hi>Rio Grand,</hi> where Roving up a great River, the Marriners were much afflicted with the inſufferable ſtinging of Flyes, called <hi>Muskalos,</hi> againſt which there is no Remedy, but Iuice of Lemons, with which the skin being wet, they will not faſten. In the River he met two <hi>Indian Canows,</hi> in which were Fiſher-men, but took no notice of them, for fear of being diſcovered, but paſſing for <hi>Spa<g ref="char:EOLhyphen"/>niards,</hi> the Captain and his Men came to a Store-houſe, on the Ri<g ref="char:EOLhyphen"/>ver ſide, where he found great plenty of Proviſion, prepared for the Fleet that was about to return into <hi>Spain;</hi> after which, having notice that the <hi>Spaniards</hi> were coming down, they returned to their Pinnaces, and ſoon after took five or ſix ſmall Barks, Laden with Proviſion, ſetting the Men on Shoar, and ſo Sailed to the Country of the <hi>Syme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons,</hi> who kindly received them. Theſe <hi>Symerons</hi> are a People Inhabiting between <hi>Cabezas,</hi> and <hi>Rio Piego,</hi> who by certain <hi>Negroes,</hi> were given to underſtand, That <hi>Drake</hi> came as a Friend, and would protect them againſt the attemp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the <hi>Spa<g ref="char:EOLhyphen"/>niards;</hi> which cauſed them to admit the <hi>Engliſh</hi> to confer with them, and furniſh them with ſuch neceſſaries as they required; pro<g ref="char:EOLhyphen"/>miſing <hi>Drake,</hi> that as ſoon as the five Rainy Months were paſt, in which, <hi>Spaniards</hi> never carry their Treaſure by Land, they would ſo order the matter, that he ſhould make himſelf Maſter of much Gold. Whereupon he ordered them to build him ſix Houſes, for ſheltring his Men, which they did, as likewiſe with the help of the <hi>Engliſh,</hi> a Fort Triangle, which the Captain fortifyed to prevent any ſurprize; and leaving part of his Men there, Sailed amongſt the pleaſant Iſlands, in the River repliniſhed with Gardens, and Delicious Fruits, where the <hi>Indians</hi> were at his Devotion, deliver<g ref="char:EOLhyphen"/>ing up their Bows and Arrows, bringing Baskets of Fruit and Iuices in Bails, as an Oblation of theſe People. <hi>Drake</hi> inquired into the State of the Country, and then Sailed towards <hi>Chareſha,</hi> and Anchored between the Iſland, and the Main-land, to defend which, the <hi>Spaniards</hi> had lined the Shoar with Shot, Firing inceſ<g ref="char:EOLhyphen"/>ſantly at the <hi>Engliſh,</hi> ſo that they were obliged to ſtand off, the Captain having one of his Men ſore wounded; and next Morning took a Bark Laden with Proviſion and Sweet-meats, bound for <hi>Carlagena,</hi> ſetting all the Men on Shoar, except a <hi>Negro,</hi> wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m
+<pb n="5" facs="tcp:174912:4"/> the Captain kept, to be by him, inſtructed in the Affairs of the Coun<g ref="char:EOLhyphen"/>try, and Anchoring at the Mouth of the <hi>Haven</hi> of <hi>Carlagena,</hi> took two other Barks, which cauſed the <hi>Spaniards</hi> to ſend a <hi>Srivaneo</hi> with a Flag of Truce, who deſired to be admitted on Board, which was accordingly granted; But <hi>Drake</hi> findi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Meſſage was only to protract time, till the Forces came <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n to ſurprize him, would not accept of his Invitation on Shoar, which Treachery was ſoon apparent. For the <hi>Spaniards</hi> perceiving <hi>Drakes</hi> warrineſs, and that they could not get him within their reach by Land, ſent two Ships of War to ſight him by Sea, which he perceiving, went joy<g ref="char:EOLhyphen"/>fully to encounter them: but after exchange of ſeveral ſhot, the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> finding their entertainment too warm, put themſelves under the Protection of the Caſtle, and ſoon after came two other Pin<g ref="char:EOLhyphen"/>naces, who fared no better then the former: Whereupon <hi>Drake</hi> Landed ſeveral of his Men, and drove the <hi>Spaniards</hi> from the Shoar, and for their ſafety, to betake themſelves ſome to the Town, and othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to a thick Wood ſtanding cloſe by; but Victuals growing ſcarce, he was obliged to ſtand away to <hi>Rio Grand,</hi> where a little before, he had found ſtore of Proviſion, but now was fruſtrated in his expectation, for the <hi>Spaniards</hi> had cauſed the Natives to retire to the Mountains, and carry with them all their Cattle, <hi>&amp;c.</hi> But at length meeting with ſeveral ſmall Veſſels, which he took, their want was in ſome meaſure ſupplyed, yet the ſcarcity cauſed a Sick<g ref="char:EOLhyphen"/>neſs to rage among the Marriners, but Providence ſo ordered it, that only one them Dyed.</p>
+            <p>The Sickneſs ended, <hi>Drake</hi> returned to the Fort, where he had left part of his Men, together with the <hi>Symerons,</hi> but upon his ar<g ref="char:EOLhyphen"/>rival, to his great grief, found his Brother, and one <hi>Richard Allen,</hi> Dead of the Wounds they received in attempting to Board a <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Ship of conſiderable force. Nor was this all the loſs, for <hi>Jo<g ref="char:EOLhyphen"/>ſeph Drake,</hi> another of the Captains Brothers, ſoon after Dyed of a Calenture; yet he took Courage, and being ſupplyed by the <hi>Syme<g ref="char:EOLhyphen"/>rons,</hi> he attended his better Fortune, and was ſoon after informed by thoſe People (who like Grey-hounds ranged the Country to learn what they could) that the <hi>Spaniſh</hi> Fleet was arrived at <hi>Nombre de Dois;</hi> whereupon <hi>Drake</hi> ſent the <hi>Lyon</hi> Frigat to diſcry them, who upon her approaching that Port, fell in with a ſmall <hi>Spaniſh</hi>
+               <pb n="6" facs="tcp:174912:5"/> Veſſel, Laden with <hi>Mace, Hens,</hi> and <hi>Pompions,</hi> from <hi>Tolon;</hi> The <hi>Spaniards</hi> that were found therein, the Captain uſed courte<g ref="char:EOLhyphen"/>ouſly, protecting them from the fury of the <hi>Symerons,</hi> who are Mor<g ref="char:EOLhyphen"/>tal Enemies to the <hi>Spaniards.</hi>
+            </p>
+            <p>Vpon certain notice that the Fleet was arrived, <hi>Drake</hi> confered with the Native <hi>Symerons,</hi> about the Neceſſaries that were to be provided for the expedition, to ſurprize ſuch Carriages of Gold and Silver, as were to come over-Land; who told him he muſt be well furniſhed with Weapons and Shooes, and that for the reſt they would not be wanting; which being provided, <hi>48</hi> Men ſet forward, of which, <hi>30</hi> were <hi>Symerons,</hi> and the reſt <hi>Engliſh;</hi> the former ſerving in<g ref="char:EOLhyphen"/>ſtead of <hi>Sumpterers</hi> for carrying Proviſion, and when the ſtore fail<g ref="char:EOLhyphen"/>ed, they would range the Woods, and catch ſuch Proviſion as they could, ſeldom miſſing to return without a Buck or Faun, or ſtore of Foul, bearing about them many Arrows, headed with Iron, Wood, or Fiſhes Bones; which they will caſt ſo dexterouſly, that they ſeldome miſs the Iron, with which their Arrows are headed, and is frequently found to be more precious in their eſtimation, than Gold.</p>
+            <p>This March they continued over-Land through many thick Woods, from Sun-riſe, till ten in the Morning, and then reſting in watery places till four in the Afternoon, they walked till eight; and when Darkneſs came on, the <hi>Symerons</hi> laying aſide their burthens, would cut down Boughs to build Harbours with, covering them to keep out the Rain, if any ſhould fall, building them with <hi>Planata</hi> Leaves, decent-wiſe according to the Faſhion of <hi>Norway</hi> Cottages; inſomuch that no Rain would enter for the ſpace of <hi>24</hi> hours; nor were they wanting to bring ſeveral ſorts of Fruits, as <hi>Mammeas, Guyanas, Palmitos, Pinos, Oranges, Le<g ref="char:EOLhyphen"/>mons, <hi>&amp;c.</hi>
+               </hi>
+            </p>
+            <p>After <hi>3</hi> days Travels, they came to a Town of <hi>Symerons,</hi> ſcituate on a Hill near a River, compaſſed with a Dike of eight foot broad, and a thick Mud-wall ten foot in heighth, containing one broad Street from Eaſt to Weſt, and two croſs Streets of a leſſer breadth; all conſiſting of ſixty Families, who in their Apparel, ſomewhat im<g ref="char:EOLhyphen"/>mitated the <hi>Spaniards:</hi> This Town is diſtant from <hi>Nombre de Dois 35</hi> Leagues, and <hi>45</hi> from <hi>Panama,</hi> being ſufficiently ſto<g ref="char:EOLhyphen"/>red
+<pb n="7" facs="tcp:174912:5"/> with all manner of plenty. As for their Religion, they have no Prieſts, yet they hold Croſſes in great Veneration; but at the per<g ref="char:EOLhyphen"/>ſwaſion of the <hi>Engliſh,</hi> they layed their Croſſes aſide, and in ſome meaſure, embrace the Worſhip of the true God learning, the <hi>Lord's Prayer,</hi> and many other neceſſary Articles of Belief; they continually were upon their Guards, for fear of the <hi>Spaniards,</hi> who dayly moleſted them, aiming at the Subverſion of that place, on which they had made ſeveral attempts, but without ſucceſs, their Scouts upon the Frontiers continually giving notice of their approach, and ſo Allarumed their Neighbouring Towns, eſpecially that wherein their King reſided, in which were ſuppoſed to be <hi>1700</hi> Fighting Men; and fain would they have intreated the Captain to a longer reſidence amongſt them, but he being intent on his Iourney, with many expreſſions of kindneſs took his leave, and ſo marching with four <hi>Symerons,</hi> who knew the way about a Mile before him, who by breaking off Boughs, and ſtrewing them in the way, gave directions; and the other twenty four divided equally for his Vaunt-Guard, and Rear-Guard, the <hi>Engliſh</hi> continuing in the middle. After paſſing many Gloomy Woods, which ſheltered them from the Suns hot Beams, they came to a great Hill, on which ſtood a high Tree, in which were cut ſeveral ſteps, that led to a pleaſant Bower, ſcituate on the top, in which, ten or twelve Men might ſit, and from thence take a view of the North and South <hi>Athantick</hi> Ocean; and from thence they paſſed on to a plain Champain Country, abounding in Graſs ſo high, that the Inhabi<g ref="char:EOLhyphen"/>tants are obliged to burn it twice or thrice a Year, to give their Catle advantage of feeding; through which they Travelled to <hi>Pa<g ref="char:EOLhyphen"/>nama,</hi> and for fear of being diſcovered, ſtruck through a Gloomy Grove, on the Right-hand, and at the edge thereof reſting: they ſent a <hi>Symeron</hi> diſguiſed like a <hi>Negro,</hi> to <hi>Panama,</hi> to inquire what Night, for by Day they Travelled? not by reaſon of the heat of the Sun. The <hi>Recoes</hi> paſſed to <hi>Venta-Cruz,</hi> in order to their Paſ<g ref="char:EOLhyphen"/>ſage to <hi>Nombre de Dois,</hi> to Land the Fleet, and by him, upon his return had notice, That that Night eight Moils Laden with Gold and Silver, and one with Iewels, together with fifty others Laden with Proviſions and Merchandize, were to paſs the Rode; where<g ref="char:EOLhyphen"/>upon <hi>Drake,</hi> with his Men, and the <hi>Symerons,</hi> placed themſelves
+<pb n="8" facs="tcp:174912:6"/> in the Graſs, and thick Shrubs, near to the way ſide, in expectati<g ref="char:EOLhyphen"/>on of the Rich Booty; The Truth of which, was likewiſe con<g ref="char:EOLhyphen"/>firmed by a <hi>Spaniſh</hi> Souldier, taken by two <hi>Symerons,</hi> and brought to the Captain; and ſo placed themſelves, that whilſt one Party was ſeizing on the foremoſt Moils, the other might take the hindermoſt. And all things had ſucceeded to their wiſh, had not an <hi>Engliſh-man</hi> and a <hi>Symeron,</hi> though contrary to the ſtrict command of the Cap<g ref="char:EOLhyphen"/>tain, ſuddenly ſtarted out to ſeize a <hi>Cavelier</hi> coming from <hi>Venta-Cruz,</hi> who perceiving them by the <hi>Engliſh-man</hi>'s white Shirt, which he and the reſt, had put over his Cloaths, the better to diſtin<g ref="char:EOLhyphen"/>guiſh them if it ſhould come to a skirmiſh, as in in all likelyhood it would, he ſuddenly put Spirs to his Horſe, and out ſtriped them: about a League diſtance meeting with the <hi>Recoes,</hi> he informed the Convoyers of what he had ſeen, telling them, That he was ſure that either <hi>Drake,</hi> or ſome of his Men, lay in Ambuſh for them: So the <hi>Recoes,</hi> Laden with Gold and Silver, and Iewels, turned back again, and only that Laden with Proviſion, Merchandiſe, and a ſmall quantity of Treaſure, come forward, which was according<g ref="char:EOLhyphen"/>ly taken, and declared the manner of the Prevention; imploring <hi>Drake</hi> to defend them from the rage of the <hi>Symerons.</hi>
+            </p>
+            <p>Matters being at this paſs, it was not thought ſafe to ſtay long in thoſe parts, but to return to the Ships, which they could not do, but by the tedious way they came, or by cutting their way through <hi>Venta-Cruz,</hi> the latter of which as leſs difficult. <hi>Drake</hi> reſolved on, and therefore commanding his Men to refreſh themſelves, ask<g ref="char:EOLhyphen"/>ed <hi>Pedro,</hi> Captain of the <hi>Symerons,</hi> whether he would ſtand by him or not? who anſwered, He would Dye at his Feet, e're he would leave him; and thereupon on they marched, till they cam near the Town, and there taking out of the <hi>Recoes</hi> what was beſt Porta<g ref="char:EOLhyphen"/>ble, they turned back the Moiles and their Drivers, commanding them on pain of Death, not to follow them: and ſentering the way, cut through a thick Wood, as thick as our <hi>Engliſh</hi> Hedges, they were incountered by a company of <hi>Spaniards,</hi> under the leading of a <hi>Convent Fryer;</hi> when after a hot skirmiſh (in which <hi>John Har<g ref="char:EOLhyphen"/>ris,</hi> an <hi>Engliſh-man,</hi> and one <hi>Symeron,</hi> were killed, the <hi>Spani<g ref="char:EOLhyphen"/>ards</hi> were put to flight, many of them being killed, wounded, and taken Priſoners; The <hi>Symerons</hi> at that time behaving them<g ref="char:EOLhyphen"/>ſelves
+<pb n="9" facs="tcp:174912:6"/> valiently, doing with their Arrows, great Execution. But far they had not marched, e're the <hi>Spaniards,</hi> who had retired, be<g ref="char:EOLhyphen"/>ing reinforced, had fortifyed themſelves in a Wood, by which the <hi>Engliſh</hi> muſt paſs; into which Wood the <hi>Symerons</hi> in a Daun<g ref="char:EOLhyphen"/>cing poſture ruſhed, ſinging in their Tone, <hi>Yo-Peho, Yo-Peho,</hi> and with their Aroows, drove the poor <hi>Spaniards</hi> thence, with the loſs of but one Man; who, wounded as he was, e're he Dyed, kil<g ref="char:EOLhyphen"/>led two <hi>Spaniards.</hi>
+            </p>
+            <p>The out-Guards beaten, thoſe that remained in the Town, made but ſmall reſiſtance, ſo that the <hi>Engliſh</hi> and <hi>Symerons</hi> entering, found moſt of the Houſes abondoned. This Town of <hi>Venta-Cruz,</hi> conſiſts not of above fifty Houſes, beſides one Monaſtery, and a few Store-houſes. Here likewiſe they found three <hi>Spaniſh</hi> Gentle<g ref="char:EOLhyphen"/>women that had lately been delivered of Children, came ſome days before from <hi>Nombre de Dois;</hi> for that it had been obſerved, that no <hi>Spaniard,</hi> or <hi>White,</hi> had ever been delivered at the latter place, but that the Child ſoon after Dyed: But that being brought to Bed at <hi>Venta-Cruz,</hi> or any other place Adjacent, the Children came to maturity. In compaſſion to this, <hi>Drake</hi> ſtrictly commanded, that neither his own Men, or the <hi>Symerons,</hi> ſhould out-rage them: and ſo having ſet a Guard upon all the Paſſes, they took ſome ſmall Pillage and departed, having firſt beaten back twelve Horſe-men, who ſuppoſing them gone, came thither from <hi>Panama.</hi>
+            </p>
+            <p>Thus the chief ends, for which the Iourney was undertaken, be<g ref="char:EOLhyphen"/>ing unluckily fruſtrated, <hi>Drake</hi> (after a tedious March, in which many of his Men had periſhed by hunger and thirſt, had not the <hi>Sy<g ref="char:EOLhyphen"/>merons</hi> proved their Purveyors) arrived to his Ships; thoſe on Board, who before were in great heavyneſs for his abſence, abun<g ref="char:EOLhyphen"/>dantly rejoycing at his return; and ſo ſtaying on board in the Ri<g ref="char:EOLhyphen"/>ver <hi>Fortugos,</hi> for ſome time a conſult was held, what Enterprize was next to be undertaken, in which the Opinion of <hi>Symerons</hi> was held neceſſary, as they who beſt knew the Country, and where the Treaſure lay; who gave Council, that near a Town, called <hi>Veragna,</hi> lived one <hi>Senior Pezaro;</hi> who had formerly been Maſter to ſome of them, and whom for his cruelty, they had abandoned; And that this Man, in a ſtrong Store-houſe, Guarded by <hi>100</hi> Slaves, had heaped up great Treaſure, being Propriator of ſeveral
+<pb n="10" facs="tcp:174912:7"/> Rich Mines. This Advice pleaſed them, yet they was prevented at that time by another Advice; for one of the <hi>Frigats</hi> being abroad, had taken a ſmall <hi>Spaniſh</hi> Prize, in which was a <hi>Genoway Pilot;</hi> The ſaid <hi>Pilot,</hi> upon his being kindly intreated, informed <hi>Drake.</hi> That in the <hi>Bay</hi> of <hi>Nicaragua,</hi> lay a Veſſel ready to depart, in which was a Million of Gold, and that by his knowledge of the Channel, if he might partake in the gains, he could bring him in un<g ref="char:EOLhyphen"/>diſcovered, and that he might have time to diſpatch his buſineſs e're the Town could be Allarum'd. Whereupon the Captain giving ſuch of the <hi>Symerons</hi> (who were willing thereto) leave to depart, gifting them with many large gifts, he took the reſt with their Cap<g ref="char:EOLhyphen"/>tain on Board, and ſet Sail to ſeize on this ſo much deſired Prize; But entering the Harbour, although it was yet Dark, he under<g ref="char:EOLhyphen"/>ſtood by the Firing of ſeveral Chambers, which wer anſwered <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others a diſtance thence, that he was diſcovered, and the Wind rur <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing againſt him, he thought it not fit to attempt any thing further in that matter. So returning to his Station, he met the <hi>Bear</hi> Frigat, a ſmall Veſſel that he had fitted up, who had taken a <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Bark, Laden with twenty eight fat Hogs, two hundred Hens, and great ſtore of Mace; which is a kind of a grain like Rice, and in it ten <hi>Spaniards,</hi> who informed him, That the Fleet was arri<g ref="char:EOLhyphen"/>ved at <hi>Nombre de Dois,</hi> and that two Gallies were building there to waft them to and fro, but not yet Launched. Whereupon <hi>Drake</hi> feaſting his Men in this manner on <hi>Eaſter-Day,</hi> which that Year fell on the twentieth of <hi>March,</hi> he reſolved to attempt ſomething on the Fleet, and weighing Anchor bore with the Wind, till at length they eſpied a ſmall Veſſel plying to the Weſt-ward, which after ſome Sai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, was diſcryed to be a <hi>French</hi> Veſſel; whoſe Captain like<g ref="char:EOLhyphen"/>wiſe ſuppoſing it was <hi>Drake,</hi> ſtood with him, and in a moſt ſubmiſ<g ref="char:EOLhyphen"/>ſive manner, begged ſome freſh water, for that he had nothing but Wine and Sider on Board: the which, by reaſon of the hot wea<g ref="char:EOLhyphen"/>ther, had much impaired the health of his Men; with which <hi>Dra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> ſupplyed him, willing to ſtand with him to the next Port, which he accordingly did, making him there, a Preſent of a Caſe of Piſtols, and a Guilt Scimeter, which he ſaid had been the late King of <hi>Fran<g ref="char:EOLhyphen"/>ce</hi>'s, who was killed in <hi>Juſt,</hi> with <hi>Monſieur de Gomery;</hi> in re<g ref="char:EOLhyphen"/>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ital of which, <hi>Drake</hi> gave him a Chain of Gold, and a further
+<pb n="11" facs="tcp:174912:7"/> ſupply of neceſſary Proviſion. So that in the end he was willing to accompany him in his Voyage, and take ſuch part as ſhould befal him; yet <hi>Drake</hi> not altogether ſatisfyed in his Fidelity, ſo divided either Nation, that it was not in the power of the <hi>French-men,</hi> if the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would, to have injured the <hi>Engliſh;</hi> and then ſending for the <hi>Symeron</hi> Captain, he approved of what was done, and thereupon it was agreed, That twenty <hi>French,</hi> fifteen <hi>Engliſh,</hi> and a conſider<g ref="char:EOLhyphen"/>able number of <hi>Symerons,</hi> ſhould paſs over-Land, to intercept the <hi>Ricoe</hi> that were coming from <hi>Panama,</hi> to <hi>Nombre de Dois;</hi> when having gone ſeven Leagues, the Bells of the Camels, and Moiles, were heard, which made the <hi>Symerons</hi> rejoyce, aſſuring Captain <hi>Drake,</hi> that he ſhould have more Gold and Silver, than he could diſpoſe of, and ſo indeed it fortuned, for the <hi>Recoes</hi> being ſeiz<g ref="char:EOLhyphen"/>ed, a R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch Booty appeared, but there being a Guard of forty <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> attending it, a hot diſpute happened: but in the end, the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> were put to flight, and the Gold and Silver unladed, and eve<g ref="char:EOLhyphen"/>ry one took what he could conveniently carry; but ſcarce had they hid the reſt, and entered the Wood, e're a great number of Horſe and Foot came on, yet they kept their way, all eſcaping, except one <hi>Sy<g ref="char:EOLhyphen"/>meron</hi> that was killed, and a <hi>French</hi> Souldier that was taken Priſoner, who being put to the Torture, confeſſed where the Gold was hid, the Conflict the <hi>French</hi> Captain, was dangerouſly wound<g ref="char:EOLhyphen"/>ed: But what was moſt amazing, was that when they came to the Sea ſide, where the Pinnaces had order to attend them. They per<g ref="char:EOLhyphen"/>ceived ſeven <hi>Spaniſh</hi> Pinnaces, which were ſent to take the <hi>Engliſh</hi> Veſſels, then but weakly Maned, whom <hi>Drake</hi> and the reſt imagin<g ref="char:EOLhyphen"/>ed to have executed their deſign; but taking courage, he reſolved to make a raft of ſuch Trees as were driven on Shoar and put to Sea, in order to ſeek his Veſſels, which he occordingly put in practice, ac<g ref="char:EOLhyphen"/>companyed with one <hi>Engliſh-man,</hi> two <hi>French-men,</hi> and two <hi>Sy<g ref="char:EOLhyphen"/>merons,</hi> and with great joy, ſound his Veſſels ſafe, riding it out behind the Point; and in ſpight of the <hi>Spaniards,</hi> according to his Promiſe, fetched off his Companions, when having refreſhed them<g ref="char:EOLhyphen"/>ſelves, they went to look for the hidden Treaſure, but found as afore<g ref="char:EOLhyphen"/>ſaid, That the <hi>Spaniard,</hi> by the <hi>French</hi> Captain's Confeſſion, had diſcovered it. Yet had they not ſearched ſo narrowly, but that they had left ſeveral Bars of Silver behind them, as alſo ſome Quoits
+<pb n="12" facs="tcp:174912:8"/> of Gold; but what troubled the <hi>French-men</hi> moſt, their Captain ſore wounded as he was, fell into the hands of the <hi>Spaniards,</hi> yet upon ſharing the Booty equally amongſt them and the <hi>Engliſh,</hi> they were comforted, eſpecially upon the Arrival of one of their Companions, who had eſcaped the hands of the <hi>Spaniards.</hi> Yet being deſirous to depart into their own Country, they left the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> yet fearing the danger they might incur, by falling into the hands of the <hi>Spaniards,</hi> they repented their raſhneſs, and lingered till <hi>Drake</hi> over-took them: when notice being had, that the <hi>Spaniſh</hi> Fleet Richly Laden were about to depart from <hi>Cartagena, Drake</hi> Sailed to the Mouth of the Harbour, and there droping his Anchor, braved them with all Streamers flying, and Flag aſtern, and took a Frigat of fifty Tuns, Laden with Proviſion, within ſight of 'em, and not to be cumbered with the Men taken therein, ſet them on Shoar, and ſo without longer ſtay Sailed to <hi>Cabezas,</hi> having firſt burnt the Ship, that it might no more advantage the <hi>Spaniards.</hi>
+            </p>
+            <p>During <hi>Drake</hi>'s ſtay at <hi>Cabezas Pedro,</hi> the Captain of the <hi>Symerons</hi> importun'd him for certain Iron Inſtruments belong<g ref="char:EOLhyphen"/>ing to Navigation, which he frankly gave him for the good ſervice he had done him; further promiſing, that he would look out ſome Silk and Linnen for his Wife, not intending to hold any thing from him that he could conveniently ſpare. But whilſt he was looking in his Cheſt, the <hi>Indian</hi> eſpyed the Scimeter, given him by the <hi>French</hi> Captain, and was greatly deſirous of it, but being baſhful himſelf, he gave another a Quoit of Gold to ask for it; and having his requeſt granted, he gave <hi>Drake</hi> four Quoits of Gold in requital, ſaying, He would preſent it to his King, who would high<g ref="char:EOLhyphen"/>ly promote him for ſuch a preſent.</p>
+            <p>And now <hi>Drake</hi> being deſirous to return into <hi>England,</hi> reward<g ref="char:EOLhyphen"/>ed the <hi>Symerons</hi> with divers gifts, and after leave taken, though to the great grief of thoſe <hi>Indians,</hi> who earneſtly deſired the compa<g ref="char:EOLhyphen"/>ny of the <hi>Engliſh,</hi> they ſtood away to the Iſland that beſpangled the Ocean, and coaſting that tract, came to Cape St. <hi>Anthony,</hi> where they took two hundred and fifty Turtles, which they powdered and eat, as occaſion required; and from thence Sailing North-weſt, af<g ref="char:EOLhyphen"/>ter touching at ſeveral places, they, to the great joy of their Friends, who concluded them loſt, arrived ſafe at <hi>Plimouth,</hi> on the <hi>9th.</hi> Day
+<pb n="13" facs="tcp:174912:8"/> of <hi>June, Anno. Dom. 1573.</hi> bringing home to the value of <hi>80000</hi> Pounds in Gold and Silver, and other Merchandiſes, be<g ref="char:EOLhyphen"/>ſides the great Credit and Applauſe they obtained of all that heard of their ſtrange Adventures. <hi>Drake</hi> himſelf being Knighted, and the reſt amply rewarded.</p>
+         </div>
+         <div type="account">
+            <head>Sir <hi>Francis Drake,</hi> his Second Voyage, in which he compaſ<g ref="char:EOLhyphen"/>ſed the World; In which is comprehended, the many Strange and Wonderful Diſcoveries he made, during that extraordinary Navigation.</head>
+            <p>
+               <hi>DRake</hi> impatient of remaining at Shoar, importuned his So<g ref="char:EOLhyphen"/>veraign Queen <hi>Elizabeth,</hi> that he might be Commiſſioned to make a Second Voyage, the which after ſome delays, was granted; whereupon the Adventurers furniſhed him five Ships, <hi>Viz.</hi> The <hi>Pelican Admirable,</hi> Burthened 100 Tuns, in which he imbarqued himſelf; The <hi>Elizabeth Vice-Admirable,</hi> Commanded by Captain <hi>Joſeph Winter,</hi> being a Ship of 80 Tuns: The <hi>Mar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ygold,</hi> a Bark of 30 Tuns, Captain <hi>John Thomas</hi> Commander; The <hi>Swan,</hi> a Fly-boat of 50 Tuns, <hi>John Cheſter</hi> Commander; and a ſmall Pinnace of 15 Tuns.</p>
+            <p>Theſe Veſſels being Maned with 164 able Sea-men, and Soul<g ref="char:EOLhyphen"/>diers, and furniſhed with all things neceſſary, Sailed out of <hi>Pli<g ref="char:EOLhyphen"/>mouth</hi> Road, on the 15th. of <hi>November,</hi> 1577. yet met with ma<g ref="char:EOLhyphen"/>ny difficulties, by reaſon of Tempeſts, and contrary Winds, e're they could get clear of the Lands end; at what time Sa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng to<g ref="char:EOLhyphen"/>wards the Coaſt of <hi>Barbary,</hi> they came to an Anchor on the Coaſt of <hi>Magadore,</hi> lying three Degrees, forty Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uits, b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng part of the Territories of the King of <hi>Fez,</hi> being a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mall I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and not above three Leagues in Circumference, abando<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng with Foul and Fiſh, though of an unuſual ſhape. There <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Engliſh</hi> going on Shoar, the <hi>Negroes,</hi> who Inhabi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat place, were deſirous to be conducted on Board, for whoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urity; <hi>Drake</hi> left a Pledge on
+<pb n="14" facs="tcp:174912:9"/> Shoar, the <hi>Moors</hi> ſeemingly deſireing to Traffick for ſuch Commo<g ref="char:EOLhyphen"/>dities as the <hi>Engliſh</hi> had, bringing to the Sea-ſide, Camels Laden with Merchandiſes. But when the <hi>Negroes</hi> were returned, ſome of the <hi>Engliſh</hi> going on Shoar in a Boat, one of them, name <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hn Fry,</hi> was detained, which much incenſed <hi>Drake,</hi> ſo that he wy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<g ref="char:EOLhyphen"/>bout to revenge the Indignity, to that purpoſe Landing his Men: But when he underſtood no injury was off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red him, they departed, and although he went not with them, yet after the Governour of that Iſland underſtood of what Nation he was, he ſent him home in an <hi>Engliſh</hi> Ship, having upon his cauſing him to be ſurprized, conjectured him a <hi>Portugal,</hi> and that <hi>Drak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was the fore-runner of the <hi>Portugal</hi> Fleet, prepairing to Indamage that Coaſt.</p>
+            <p>Departing from this Iſland, <hi>Drake</hi> took a ſmall <hi>Spaniſh</hi> Fiſher<g ref="char:EOLhyphen"/>boat, conducted but with three Men only; and after that, Sailing under the <hi>Tropick Cancer,</hi> fell in with a <hi>Spaniſh Craval,</hi> which he took, and then Sailing to <hi>Cape Barbas,</hi> he there took another, though indifferently Laden with Proviſion; where having plenty of all things neceſſary he ſtayed a while, during which ſpace, the Natives came down to view the <hi>Engliſh,</hi> bringing with them a <hi>Negro</hi> Woman half ſtarved, with a Child at her Breſt, offering her to Sail, but <hi>Drake</hi> would not Traffick for ſuch Commodities; whereupon they brought Gums, and Amber greeſe, offering it for freſh water, which above all things is moſt ſcarce in that Country. Water they had, but <hi>Drake</hi> would not take any thing for the com<g ref="char:EOLhyphen"/>mon Element, as likewiſe ſome Proviſion, for which they were very thankful for, eating greedily.</p>
+            <p>Having thus far proceeded, they ſet the <hi>Spaniards</hi> on Shoar, and after triming their Ships, Sailed to <hi>Cape de Verde,</hi> and ſo C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urted <hi>Bomaviſta,</hi> falling in with the <hi>Iſle of Mayo,</hi> Inhabited by t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Portugueſe,</hi> and ſo touching at ſeveral Iſlands, came to St. <hi>Jago,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the South-Weſt of which Iſland, they took a <hi>Portugueſe</hi> Veſſel, Laden with Wine, Woollen, and Linnen-Cloath, on its return fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Brazil;</hi> and in defiance of thoſe on Land, Fired upon three or four <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f their T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wns, ſtanding on the Sea-Coaſt.</p>
+            <p>Near to the Iſland of S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Jago,</hi> is the Burning Iſland, called <hi>Fogo,</hi> continually caſting F<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es; and near to that, lies a plea<g ref="char:EOLhyphen"/>ſant Iſland, always <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lad with <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n, exceeding fruitful, abounding
+<pb n="15" facs="tcp:174912:9"/> eſpecialy with <hi>Figs, Cocos, Planatos, Oranges</hi> and <hi>Lemons;</hi> it is alſo repliniſhed with pleaſant Streams, though the Harbours about it, are not capable of re<g ref="char:EOLhyphen"/>ceiving any Ships of burthen: and in all the Iſland, was only one Houſe ſup<g ref="char:EOLhyphen"/>poſed to be Inhabited by an Hermet.</p>
+            <p>From this Iſland, after having taken ſome of what it afforded, they ſtood away to the Coaſt of <hi>Brazil,</hi> but by contrary Winds, were kept out ſo long at Sea, that Proviſion grew ſcanty, and eſpecially Water, which in that burning Climate was moſt requiſit. But when they deſpared of obtaining any, God ſo ordered it, that there fell great ſtore of Rain, which ſupplyed their neceſsity; And amongſt many other ſtrange Creatures, found in theſe Seas, they delight<g ref="char:EOLunhyphen"/>ed themſelves with viewing the flying Fiſhes, which are as big as ordinary <hi>Pilchards,</hi> having Finns the length of their Bodys, ſo that when they are pur<g ref="char:EOLhyphen"/>ſued by any Fiſh, and in fear to be devoured, they ſave themſelves by leaving their Element, and flying in the Air; but cannot continue it long, for that their Finns wanting moiſture become unſerviceable, by reaſon of the thin Filme that joyns the Bones, or Quill, <hi>&amp;c.</hi> Sailing from thence to the Coaſt of <hi>Brazil,</hi> they beheld huge Fires on the Shoar, made by the Inhabitants, in which they Sacrificed two Devils, uſing many Conjurations to raiſe Whirl-Winds and Tempeſts, thereby to w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack ſuch as approached their Coa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: Which Helliſh Inchantations, the <hi>Portugals</hi> to their coſt found fatal, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n they firſt diſcovered thoſe Countries; But the <hi>Engliſh</hi> ſuſtained no other dammage, than the ſeparation of their Ships, when leaving that C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt altogether Rocky and Inacceſsible, <hi>Drake</hi> ſtood away to another Point, which he called <hi>Cape Joy,</hi> by reaſon he there met the Ship he loſt in the Storm; And having water<g ref="char:EOLunhyphen"/>ed and refreſhed his Men at <hi>Cape Verd,</hi> and taken ſtore of Deer, which that Country affords in abundance, he ſtood away Twelve Leagues from the Main to a convenient Harbour, ſheltring from the South-Wind; and North-Winter growing faſt upon him, he ſought out a Harbour where he might ride ſafe: and at laſt coming to <hi>Cape Hope,</hi> he curred with a Shallop, to ſound the <hi>Bay,</hi> which promiſed good Anchorage. But e're he could return ſo great a Fog aroſe, that he could not ſee the Ships, and a Storm withal ariſing, he was greatly indangered to be loſt: But the Captain <hi>Thomas,</hi> ſuſpecting ſome dan<g ref="char:EOLhyphen"/>ger had befallen him by reaſon of his ſtay, entred with his Ship, and by Fire<g ref="char:EOLhyphen"/>ing a Gun, directed him to the Weſſel and having received him on Board, drop<g ref="char:EOLhyphen"/>ed Anchor, and there lay till the Storm was over: and the next day going on Shoar, made great Fires, as a Sign to the diſperſed Ships to return into the <hi>Haven,</hi> who all met, except the <hi>Swan.</hi>
+            </p>
+            <p>Vpon their Landing the People being fled, they entred homely Houſe near a Rock, where they found Fifty Eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riches of a Prodigious ſize, whoſe weight were ſuch that they could not flye, but run as faſt as Grey-Hounds ſo that they are not catched, but by decoying them into a Net, by the likeneſs of an Eſtrich made of their Feathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. <hi>Drake</hi> not finding this Harbour for his purpoſe, ſtood away South-Weſt, about Twelve Leagues, where entring a Port, a great number of the Natives preſented themſelves upon a Hill, leaping and dancing after an extravagant manner, and at firſt Landing ſeemed fearful of the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> but ſoon after became more familiar, bringing Eſtriches Feathers and Bones, variouſly Carved, and Arrows of Reed, which they dilivered for <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Commodities. They went all Naked, except a skin of Fur caſt over their
+<pb n="14" facs="tcp:174912:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:174912:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:174912:11"/> Shoulders when they ſit in the cold, but when they are doing any thing, they g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d it about their waſte: their Hair is long, which when they Cravel, they bind up with Eſtriches Feathers, of which likewiſe they make their Quivers. Their Bodies are painted with divers Colours, and their Faces they waſh with Sulpher: upon them appear the Figures of Suns, Moons, and Stars, which they term the Marks and Characters of their Gods. Their Victuals is Roots, and Wild Beaſts Fleſh, which they eat raw; they have no Boats, and ſeldome enter the Water: theſe that appeared, were Fifty in number: they uſe for their Weapons, Bom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> headed with Bone, and Flint ſtones, Artifi<g ref="char:EOLhyphen"/>cially cut.</p>
+            <p>Having ſtayed ſome time with this People, and caught in the <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> about 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 Seals, they weighed Anchor, and ſtood towards the <hi>Antar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick Pole,</hi> till they came to St. <hi>Julian,</hi> ſo named by <hi>Magelen,</hi> otherwiſe the <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gyant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> for here are found People of a mighty ſize, who at firſt received ſeveral of the <hi>Engliſh</hi> kindly, but in the end ſeeing their advantage, killed one, and wounded two or three others, e're they could recover their Boat, yet not without the fall of two or three of their own Men, eſpecially of him who firſt began the miſ<g ref="char:EOLunhyphen"/>chief, which injury <hi>Drake</hi> reſolved to revenge. But upon their Repenting what they had done, and declaring they ſuppoſed his Men to be <hi>Spaniards,</hi> who had ſlain many of their People, he departed that Coaſt, and ſoon after had notice of a Conſpiracy againſt himſelfe, and his Principal Captains, by one on Board: of which the Conſpirator being detected, was worthily Execu<g ref="char:EOLhyphen"/>ted, worſe Execution being thereby prevented. And ſo keeping on, came <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three Iſlands lying Tryangle wiſe, which he called <hi>Elizabethides,</hi> in Honour of our Virgin Queen; On one of them he found ſtore of Birds, as big as Stuble-Geeſe, without Feathers, having only matted down on their backs and beaks like a Crow: they cannot run faſt, but ſwim exceeding ſwift; they lay their Egs in the Ground, where they make holes with their Beaks like Conies. Of theſe they killed 3000. and with them made merry: and then coming to another Iſland, Inhabited by People of little Statute, he found them Row<g ref="char:EOLhyphen"/>ing in <hi>Canows,</hi> made of the Barke of a Tree; But that place affording no variety, he ſtood away to the South-Sea, Sailing among the Iſlands 1<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Leagues: but a Storm ariſing his Fleet ſeparated, and ſome Ships loſt their Anchors, narrowly eſcaping the devouring Waves. But God ſo ordered it, that entering <hi>Mare Delzur,</hi> they got under the Tempeſt, and remained ſafe till the Storm was over: and then Stearing North ward along the Coaſt of <hi>Pe<g ref="char:EOLhyphen"/>ru,</hi> they entered an Iſland full of Birds, Inhabited by <hi>Spaniards,</hi> and Native <hi>Indians;</hi> and being fallen with the Land, they Sailed along the Coaſt two De<g ref="char:EOLunhyphen"/>grees, where going on Shoar the Natives at firſt received them kindly, and of<g ref="char:EOLhyphen"/>fered to Traffick with them: But having trained them into danger, ſhot at them, as they were in their Boat, killing and wounding divers others, a<g ref="char:EOLhyphen"/>mongſt which <hi>Drake</hi> was one, having an Arrow ſhot into his Noſe, and another h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him on the Fore-head, yet he val<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isg the loſs of one of his Men, worth a hundred of theirs, thought not fit to go on Shoar to revenge the injury. Theſe People Inhabiting the Iſlands, are ſuch as the cruelty of the <hi>Spaniards</hi> had driven from the Main, which cruelty renders them unhoſpirable to all Strangers. Their Weapons are Spears, and Darts of Reed, headed with Stone and Bone.</p>
+            <pb n="17" facs="tcp:174912:11"/>
+            <p>Theſe barbarous People thus left, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y not far diſtant, found an <hi>Ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an</hi> Fiſhing in his <hi>Canow,</hi> who being <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ken, and brought on Board, was courte<g ref="char:EOLhyphen"/>ouſly enter tained: who in re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tal thereof, be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng ſet on Shoar, returned with divers others, bringing ſtore f Proviſion and di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected the <hi>Engliſh</hi> to a watering place, of which at that ti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood in great ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; And ſoon after the Gover<g ref="char:EOLhyphen"/>nour of the Country came o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oard, and they afterwards going on Shoar with him, found ſtore of <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inly</hi> Wine, and other Rarities, in a homely Town, conſuſing moſtly of Ware-houſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>Being thus refreſhed, <hi>Drake</hi> Sailed to ſeek the Ship ſeparated from him in the Storm, carrying with him an <hi>Indian Pilot,</hi> the better to know theſe Seas, and ſtood away towards the Line; and by the way, putting into a convenient Harbour, built a Pinnace, and then entering a <hi>Bay</hi> Southward came to the Town of <hi>Cyppo,</hi> Inhabbited by the <hi>Spaniards,</hi> who diſcovering them e'r they could Land any conſiderable number of Men, came down with 100 <hi>Spaniſh</hi> Horſe, and 200 <hi>Indians</hi> on foot, running after them like Dogs. But e're they could prevent it, all but one Man was got on Board, but he, bolder then the reſt, ſtaying to outface them in a bravery, was ſhot by one of them, and then by the <hi>Indians,</hi> ſtuck full of Arrows made of green Wood, cutting off his Head, and Right-hand, and pulling out his Heart: yet what they left of him, his Companions the next day Landing, Buried. And leaving theſe Butchery <hi>Spaniards,</hi> Sailing North-ward, they came to the Cape of <hi>Mormorena,</hi> where finding four <hi>Indians</hi> in their <hi>Canows,</hi> they promiſed to bring them to a place where they might water, which accordingly they did, where lighting on a <hi>Spa<g ref="char:EOLhyphen"/>niard</hi> a ſleep, with thirteen Bars of Silver weighing 4000 <hi>Spaniſh</hi> Duckates, they eaſed him of the burden: and not far from thence they met another <hi>Spa<g ref="char:EOLhyphen"/>niard,</hi> and an <hi>Indian</hi> Boy, driving four <hi>Pervanian</hi> Sheep, each Sheep bearing two bags, in each of which, was fifty pound weight of Silver, which became likewiſe their Prize, and ſo returned on Board: and a little from thence, met ſeveral <hi>Indians</hi> Rowing in Boats of Leather ſowed together, and floated Blad<g ref="char:EOLhyphen"/>ders filled with Wind, which Row very ſwiftly; with theſe they carryed Knives and Glaſs-Beeds, for Fiſh.</p>
+            <p>Sailing along the Tract, they came to another Iſland, near the Province of <hi>Cuſco,</hi> where they found Sheep as big as Cows, whom the Inhabitants uſe in carrying their burdens, the Wool and Fleſh of which are excellent Cloath<g ref="char:EOLhyphen"/>ing, and Proviſion. This Coaſt is Inhabited by the <hi>Spaniards,</hi> which made our Men hope for ſome Rich booty, nor were they deceived in their expectati<g ref="char:EOLhyphen"/>on; for the firſt thing they happened on, was a Bark with forty odd Bars of Silver, and ſoon after another Laden with Linnen, and ſo Sailed to <hi>Lima,</hi> 12 Degrees, 30 Minuets South Latitude, where they Anchored, although in the Harbour, were 30 <hi>Spaniſh</hi> Weſſels, Boarding a Veſſel that had in her 15000 Bars of Silver, of which, and ſome other Commodities found there, they ea<g ref="char:EOLhyphen"/>ſed her; And having notice of a Rich Ship, bound for <hi>Panama,</hi> they ſet Sail, and falling with <hi>Franciſco,</hi> about Noun they diſcovered her, and bearing up without reſiſtance, Boarded her, finding in her Fruits, Conſerves, Sugars, and a great quantity of Iewels, 13 Cheſts of Plate Rial, 80 <hi>l.</hi> weight of Gold, and 26 Tun of uncoyned Silver, valued at 360000 Pezoes, for which they on<g ref="char:EOLhyphen"/>ly gave the Maſter a little Linnen in exchange, which he took, ſuppoſing that better than nothing, as well knowing <hi>Drake</hi> would be his own Carver.</p>
+            <pb n="18" facs="tcp:174912:12"/>
+            <p>Sailing from thence one Degree, North Latitude, they met with a Ship Laden with Linnen, China Diſhes: and beſides, found in it a <hi>Falcon,</hi> with a great Emrald in its Breaſt, which they took, and ſo paſſed by the Port of <hi>Pa<g ref="char:EOLhyphen"/>pagaia,</hi> and divers dangerous Gulphs, continually ſending forth violent Winds. And entering the Port of <hi>Gualulio,</hi> Inhabited by the <hi>Spaniards,</hi> they furniſhed them with all things neceſſary, and compounded for their ſafety, with a Pot of <hi>Riats,</hi> as big as a Buſhel, a Gold Chain, and a Iewel; whence Sailing 5<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Leagues, they came under ſixty Degrees North Latitude, where, although it was about the middle of <hi>June,</hi> they were ſo afflicted with cold, that they were obliged to haſte thence, to ſave their Lives, all the Coun<g ref="char:EOLhyphen"/>tries round being covered with Snow, and the Seas with Globes of Ice; ſo that falling South-ward to thirty eight Degrees, the Weather was very temperate, where bearing with the Land, the Narives ſent a Man in a <hi>Can<g ref="char:EOLhyphen"/>now,</hi> to invite them on Shoar, who made a long Oration in his own Country Language, and by his Geſtures, expreſſed his meaning, and being diſmiſſed, he came again; and the third time bringing preſents of Eſtrich Feathers, which none but thoſe about their Kingdom are ſuffered to wear, he brought alſo a Baoket filled with Herbs, called <hi>Taback,</hi> in requital of which, <hi>Drake</hi> preffered him many things, but he would receive nothing but a Har.</p>
+            <p>Vpon this invitation <hi>Drake</hi> put to Shoar, and Landing his Men, erected <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Armed it well, to prevent any danger, if the Natives ſhould prove <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reacherous. Who no ſooner perceiving the <hi>Engliſh</hi> come forth of their Ships, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut they came down with great haſte from a Hill, and fell down at their feet, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſhiping them as Gods, throwing away their Bows and Arrows, and made many Laments and Cryes.</p>
+            <p>Theſe People <hi>Drake</hi> treated courteouſly, beſtowing ſhirts, and other things upon them, wherewith to cover their nakedneſs; ſignifying unto them, that he was but a Man, and that all his Company were Mortals, and no Gods, as theſe poor deluded people ſuppoſed them to be: to the belief of which they could hardly perſwade them. In Recompence of what they had received, they beſtowed upon the <hi>Engliſh,</hi> Caws, Quivers of their Arrows, and the like; and ſo with joy, which they expreſſed by their leaping and dancing, they departed to their Houſes, which are digged round in their Earth, having chefts of Wood ſet up and joyned cloſe at the top, like a Spire without Chim<g ref="char:EOLhyphen"/>neys. Their Door is like an ordinary Scurle in a Ship ſtop-wiſe; their Men for the moſt part go naked, being of a loving and tractable Nature: their only Weapons are Bows and Arrows, with which, though they are skilful, they do but little Execution, they being of no force: their Women make themſelves looſe Garments of Bulruſhes, to cover their ſecrets, wear<g ref="char:EOLhyphen"/>ing on their ſhoulders Beaſts skins, being altogether obedient to their Hus<g ref="char:EOLhyphen"/>bands.</p>
+            <p>Two days after, a great multitude of them came down to the Tent, leav<g ref="char:EOLhyphen"/>ing their Women and Bows ſome diſtance behind them, upon a Hill; who as ſoon as they were arrived at the Tent, fell to ſcratching their Faces, and caſting themſelves upon the Ground, with lamentable Cryes, as they uſe to do when they offer ſacrafice to their Gods, not being yet perſwaded but that the <hi>Engliſh</hi> were ſuch, though <hi>Drake</hi> and his Company endeavoured to unde<g ref="char:EOLhyphen"/>ceive them, with pointing towards Heaven Praying, and ſinging Pſalms.</p>
+            <pb n="19" facs="tcp:174912:12"/>
+            <p>Three days after their King came down, attended by a great number, who ſung in a lamentable Tone about him; before him one bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a Scepter, made of Black Wood, about a Yard and half long, whereon hanged three Crowns, two Chains, and a bag or a Herb, called <hi>Tabak;</hi> the King had on a Caul of Net-work, reſembling a Crown on his ſhoulders, to his waſte a Coat of Coney skins; his Guards had Coats of other skins, and Cauls with Fea<g ref="char:EOLhyphen"/>thers in them, of div rs Colours or covered with Down, which groweth on a Herb like a Lettice: which Down is not permitted to be worn, but by thoſe about the King, the ſeed of it is only uſed in Sacrifice to their Gods. The common ſort were for the moſt part naked, with long hair, tyed with bunches of Feathers, every one having their faces painted. Laſtly, The Women came with Baskets on their Arms, made of Ruſhes, ſo cloſely Woven, that they would hold Water, being hanged with Pearl ſhells, and other ſhells, and with two or three links in a Chain, ſignifying they were Veſſels Dedi<g ref="char:EOLhyphen"/>cated to their Gods. When they came near, he that bore the Scepter, made an Oration for the ſpace of half an Hour, which ended with a general <hi>Amen,</hi> and all (ſave the Children) came down the Hill.</p>
+            <p>Being come near he that bore the Scepter, with a ſtately Carriage began a Song, and a Daunce as alſo did the King, and all the reſt (ſave the Women) who daunced, but did not ſing. Which ended, they entered <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Tent, where the King cauſed his Crown to be ſet upon <hi>Drake</hi>'s Head, deſiring him, which by many ſigns he made, to take upon him the Kingdom, ſaluting him by the Name of <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh</hi> ending the ſolemnity with a Song and a Daunce, which <hi>Drake</hi> received, to the behoof of Her Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty. Whenas the common people leaving the King with <hi>Drake,</hi> went amongſt the reſt of the <hi>Engliſh,</hi> and finding ſuch as pleaſed their Fancies, which were commonly the youngeſt, and moſt beau<g ref="char:EOLhyphen"/>tiful, they incloſed them round, and offered ſacrifices to them, crying with lamentable ſhr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks, weeping, ſcratching, and tearing the fleſh from off their Faces.</p>
+            <p>This Country a bounding with all things neceſſary for the uſe of Man, <hi>Drake</hi> named <hi>Albion,</hi> and at his departure, ſet up Her Majeſties picture and Title to the Kingdom. Ingraven in Braſs. Loath were theſe people, that the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> ſhould forſake them, and great Laments they made, runing to the tops of high Hills, and cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming Trees to ſend their Eyes after them as far as they could, making <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires, and offering Sacri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ices, that they might oblige them to return again, and become their Protecto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>From this Country they ſailed to the Iſlands of <hi>Molucos,</hi> where the In<g ref="char:EOLhyphen"/>habitants in their <hi>Canows,</hi> under pretence of Trafficking with them, ſought to ſurprize them, but ſoon found to their ſmart, that <hi>Drake</hi> came to that end; whereupon naming it the <hi>Iſle of Thieves,</hi> they ſtood away to <hi>Tarnate,</hi> vvhere the King of that Country ſent his Deputy to intreat them to come on ſhoat, vvhereupon <hi>Drake</hi> caſt Anchor, and ſent a Meſſenger to the King vvith a ſcarlet Cloak, deſiring that he might be ſupplyed vvith proviſion, and other neceſſaries; vvho returned Anſvver by his <hi>Vice-Roy,</hi> that he vvould do any thing to ſerve them, and that he vvould ſhortly viſit them at their ſhips, who accordingly came in his <hi>Canow,</hi> attended by ſeveral of the Nobility, Cloathed in <hi>White Calico.</hi> Whenas the King did Obeyſance in humble manner, being of a tall ſtatute, Corpulent, and of a princely Countenance; his reſpect a<g ref="char:EOLhyphen"/>mongſt
+<pb n="20" facs="tcp:174912:13"/> his Subjects was very great, none of his a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dants daring to ſpeak to him, but on their knees; he was received on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uard w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Drums beating, Trumpets ſounding, and Vollies of great and ſm <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Attire from his waſt downwards, was Cloath of Gold, his Legs b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on his Feet ſhooes of <hi>Red Cordivant:</hi> on his Cap were dives Rings of Plated Gold, and Iach and half broad about his Neck, and on his Left hand a Diamond, an Eme<g ref="char:EOLhyphen"/>ral<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Rub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and a Turquois: on his Right-hand Rings, ſet with Rich Stones. After he had been treated and welcomed, he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eturned to Shoar, and ſent ſtore of Proviſion, for which thoſe that brought it, received good preſents; He ſent one of his Brothers the next day, to invite <hi>Drake</hi> to his Palace, but ſome ſuſpition arriſing, by words let fall, he would not go, but ſent ſome of his Gentlemen, detaining the <hi>Vice-Roy</hi> as a Pledge of their ſafety, who up<g ref="char:EOLhyphen"/>on their Arribal were Honourably received. Theſe people are <hi>Moors,</hi> and live in a v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry plentiful Country, and Fertil Clime; But after the <hi>Engliſh</hi> had Trafficked with them for ſuch neceſſaries as they wanted, they, on the 9th. of <hi>October</hi> ſet Sail, and arrived at the South of the Iſland <hi>Caelibes,</hi> where they repaired their Ships, <hi>&amp;c.</hi> there they found Bats as big as Bullets; and Crab-fiſh that lived on the Land, making holes in the Earth, and running up Trees, and Worms that ſhined in the night like Fire. Departing from this Iſland, they Sail to another, but could find no Ground near it at a 100 Fathom, wherefore Sailing to the Weſt, <hi>Drakes</hi> Ship happened to run on a Shole that extended it ſeven Leagues, where, had the Wind been high, ſhe had been loſt? But Providence ſo ordered it, by the heaving and ſetting of the Sea, and the Sailors endeavours, ſhe got off, and Sailing amongſt the Iſlands of the Sea, came at laſt to <hi>Java,</hi> where the chief King of the Country came on Board, ſending before him ſtore of Proviſion; him they welcomed in the beſt ſort, with Muſick and Proviſionr eſpecially with Wine, who within a while after, returned highly ſatisfied; And there having Trafficked a while, they took their leaves, and Sailed towards the <hi>Cape</hi> of <hi>Good Hope;</hi> Coaſting along part of <hi>Affirica,</hi> they came to the Main of <hi>Rio de Seſto,</hi> and watering in the Mouth of <hi>Tagoine,</hi> paſſed the <hi>Tropick Cancer,</hi> and ſo ſtanding off to Sea, on the 26th. of <hi>September,</hi> came ſafe to <hi>Plimouth,</hi> after two years, ten months, and ſome odd days abſence, bringing with them in Gold, Silver, Iewels, and other Merchandizes, to the value of 100000 <hi>l.</hi> having incompaſſed the whole Earth.</p>
+         </div>
+         <div type="account">
+            <head>The Voyage of Sir <hi>Francis Drake,</hi> in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>Weſt-Indies;</hi> wherein were taken the Towns of St. <hi>Domingo,</hi> St. <hi>Jago,</hi> St. <hi>Auguſtina,</hi> and <hi>Cartagena.</hi>
+            </head>
+            <p>THe <hi>Spaniards</hi> great <hi>Armado,</hi> routed in 88. the Queen, to revenge the Trea<g ref="char:EOLhyphen"/>cherous Deſign againſt her Crown and Life, fitted out a Fleet conſiſting of twenty five Sail, on which were Imbarqued 2585 Marriners, and Soul<g ref="char:EOLhyphen"/>diers. Sir <hi>Francis Drake</hi> being Admiral, the ſaid Fleet ſet Sail for the <hi>Weſt-Indies,</hi> taking by the way, ſeveral <hi>Spaniſh</hi> Veſſels, when coming to <hi>Vigo,</hi> rhe<g ref="char:EOLhyphen"/>took ſeveral <hi>Boats</hi> and <hi>Cravals,</hi> and among others, a ſmall Veſſel Laden with the Furniture of the Great Church of Sr. <hi>Vigo,</hi> in which was much Plate; and amongſt other things, a great Silver Croſs double Guilt, all amounting
+<pb n="21" facs="tcp:174912:13"/> to the value of 3 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>es. In the mean time the Governour of <hi>Galicia</hi> came down with 3 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and 2000 Foot, to defend the Shoar, deſiring Parley with the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miral, promiſing Water and other Neceſſaries for Mony, which w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s excep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; and after a ſupply of all things they required, waighe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anchor, and Sailing for the <hi>Canaries,</hi> fell in with <hi>Palma,</hi> with purpoſe to have Lan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed there: but finding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Shoar ſtrongly fortified, changed their pur<g ref="char:EOLhyphen"/>poſe, and ſo Sailing by <hi>Faro Cape Blank,</hi> and <hi>Cape Verd,</hi> they came to the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e of St. <hi>Jago,</hi> and Landed <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Men, unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the leading of Lieutenant Gene<g ref="char:EOLhyphen"/>ral <hi>Carlile;</hi> and Marching over Land un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſcovered, ſurprized the Town of St. <hi>Jago,</hi> ſcituate in a Valley, and planted St. <hi>Georges</hi> Croſs upon the Wall, not a <hi>Spaniard</hi> daring to make reſiſtance. After which, they Marched to St. <hi>Domingo,</hi> and found it abandoned, and although Treaſure was con<g ref="char:EOLunhyphen"/>veyed thence, yet in both places, ſtore of plunder was fou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, as alſo in the Town of <hi>Praie;</hi> all ſcituate in this pleaſant Iſland abounding with all things neceſſary for the ſupport of Man.</p>
+            <p>The Country thus Allarumed, the <hi>Spaniards</hi> in great numbers run to their Arms, but durſt attempt nothing; ſo that the General commanded <hi>Praie</hi> to be burnt, which ſo perplexed the <hi>Spaniards,</hi> that they reſolved to compound for <hi>Domingo,</hi> and St. <hi>Jago;</hi> but whilſt the Treaty was in hand, the <hi>Engliſh</hi> had withdrawn themſelves out of <hi>Domingo,</hi> the <hi>Spaniards</hi> fortified it, planting Ca<g ref="char:EOLhyphen"/>nons in the Gate, and laying an Ambaſcade. Whereupon <hi>Drake</hi>'s 1200. Men, went to force the Guard, which accordingly they did, making great ſlaughter of the <hi>Spaniards,</hi> ſo that they fled to the Caſtle; but fear ſo far prevailed with them, that they ſtayed not long there, but fled; upon which the Town being gained, a <hi>Negro</hi> Boy was ſent to ſuch <hi>Spaniards,</hi> as were retired to the Moun<g ref="char:EOLhyphen"/>tains, with a Flag of Truce, giving them leave to return in ſafety. But as he was going, he was run through by a <hi>Spaniard,</hi> which ſo inraged the Gene<g ref="char:EOLhyphen"/>ral, that he cauſed two <hi>Fryars</hi> to be carryed to the ſame place, and there hang<g ref="char:EOLhyphen"/>ed; proteſting, that unleſs the Murtherer was delivered up, he would hang two Priſoners every day, till none was left: which Mennace ſo troubled the <hi>Spaniards,</hi> that they delivered up the Murtherer to Iuſtice, who according to his deſerts was Executed.</p>
+            <p>The <hi>Spaniards</hi> not coming to agreement for their City and Town, <hi>Drake</hi> gave order to Fire them, but being moſt ſtone building, it proved a task very difficult; yet the <hi>Spaniards</hi> deſirous to preſerve them, offered 25<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>0. Duc<g ref="char:EOLhyphen"/>kates, which offer was accepted. One thing in the King's Houſe denoting his Ambition, was remarkable, <hi>viz.</hi> An Eſcutcheon, containing a Glove, and a Horſe ſtanding in one part in it, and the other part leaping out of it with this Motto, <hi>Non ſufficitate Orbis, The World is not enough;</hi> which the <hi>Spaniards</hi> themſelves were even aſhamed of.</p>
+            <p>From this Iſland they put over to the Main Land, and came within ſight of <hi>Cartegena,</hi> when Landing about four in the Afternoon, Lieutenant General <hi>Carlile</hi> about Mid-night, came before the City, having put a Party of <hi>Spaniſh</hi> Horſe to flight by the way; whilſt the Veſſels in the Read, attacked a ſmall Fort that ſtood on the Sea Coaſt. Half a Mile before they came at the City the Land grew ſtraight, having the Main on the one ſide, and the Harbour on the o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er: which ſtraight was f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtefyed with a Wall and a Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, only a ſpace left for paſſage, and on i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed ſix pieces of Canon, th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bent upon the
+<pb n="22" facs="tcp:174912:14"/> ſaid paſſage. Moreover, the <hi>Spaniards</hi> had drawn two Gallies into the Har<g ref="char:EOLhyphen"/>bour, into which they had put one Ordinance, and 4<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſmall ſhot, and on the Land ſide ſtood 300 ſhot, lined with Pikes: but the <hi>Engliſh</hi> taking the low<g ref="char:EOLunhyphen"/>er ground, fruſtrated their deſign, and did nor Fire, till they came up to the Wall, when leting flye a Volley in the ſpaces of the <hi>Spaniards,</hi> and ſeconding it with the bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t end of their Muskets, they beat them firſt from their Baraca<g ref="char:EOLhyphen"/>doe<g ref="char:cmbAbbrStroke">̄</g>s, and ſecondly, cauſed them to fly, entering the Town pell mell with them: and obtaining the Market place, planted there a ſtrong Guard, nor withſtanding they had B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>recaded every ſtreet, ſet <hi>Indians</hi> with poyſon A<g ref="char:EOLhyphen"/>rows at each corner, and fluck up poyſoned ſticks with ſharp points, to diſ<g ref="char:EOLhyphen"/>able the Souldiers.</p>
+            <p>The City thus won, the Ioy was not great, by reaſon of a Mortal Di<g ref="char:EOLunhyphen"/>ſtemper that raged amongſt the Soldiers, occaſioned by ill Airs, which kil<g ref="char:EOLunhyphen"/>led a great many of them, and cauſed ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to loſe their Wits, which utterly fruſtrated the Deſign upon <hi>No<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ois,</hi> and <hi>Panama,</hi> where al the Trea<g ref="char:EOLhyphen"/>ſure was. Whilſt they lay here, they took two ſmall <hi>Spaniſh</hi> Prizes, in at<g ref="char:EOLhyphen"/>tempting which, Captain <hi>Varny,</hi> and Captain <hi>Moon</hi> were ſlain with Muſ<g ref="char:EOLunhyphen"/>quer ſhot, out of the Buſhes where the <hi>Spaniards</hi> had run their Veſſels on Shoar.</p>
+            <p>The General having given order for the Fireing of <hi>Carragena,</hi> the Biſhop, Governour, and ſome other P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncipal Men of the Iſland, intreated him to ſpare it, and they would Ran<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ducka<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, which was accordingly done; and for an Abby that ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood ſome diſtance from it, they gave <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Duc<g ref="char:EOLunhyphen"/>kares; but refuſing to give ſo much <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s was dem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded, for a Caſtle ſtanding without the City, it was blown up ſo the Army Imbarking, Sailed to <hi>Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Sr. <hi>Anthony,</hi> to Water: but finding none there, paſſed over to <hi>Florida,</hi> where Sailing up the River, they took a Fort of the <hi>Spaniard<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and found in it ſeve<g ref="char:EOLhyphen"/>ral pieces of Ordinance, and 2 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. pounds in Mony; and ſo Coaſting along, came to <hi>Virginia,</hi> where ſeveral <hi>Engliſh</hi> reſided, under Mr. <hi>Lane</hi> the Gover<g ref="char:EOLhyphen"/>nour, to whom <hi>Drake</hi> offered a Ship with proviſion; or if they pleaſed, to tranſport them into <hi>England,</hi> the latter of which they accep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed: not being greatly deſirous to ſtay in a Country, where they had found ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld comfort. From this place the whole <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icer ſet Sail, and arrived ſafe <hi>at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mouth,</hi> the 28th. of <hi>July;</hi> the Booties got, beſides the defraying of Charges, amounted to 6<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>0. pounds, of which the Companies that Travelled in the Voyage, were to have 200<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>l.</hi> and the Adventurers for thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Merchandize. 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00. <hi>l.</hi> In this Voyage, 150 Men were loſt, the great Ord nance tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n from the <hi>Spaniards,</hi> were 240. of which 203. were Braſs.</p>
+            <p>On the 27th. of <hi>January</hi> they came to <hi>Villa Por<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rief of all <hi>Engliſh</hi> men, the Renowned and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uly Worthy Sir <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rancis Drak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ended his days, and was let down in a Coffin of Lead into the ſea, on which he had ſo often Triumphed; the Drums bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, Canons ſounding his la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> farewel to the World.</p>
+            <p>The General dead, all concluded to return home, which they accordingly did, being forced to fight their way through the whole <hi>Spaniſh</hi> Fleet, that vvas ſent to interrupt them, after they had been a year abroad.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
